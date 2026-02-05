@@ -53,7 +53,7 @@
 - Used AI many time.
 - The most helpfull intearection when I got stucked in connecting database to Dbeaver AI(chatgpt) help me out this problem this was issue of granting permission and the other problem was when helping me learning of git command show the working of git command
 - AI do not give misleading responce but you as yourself just copy paste the problem do not understand what is the problem so AI do not misleaing it your wrong prompt give you misleading responce from AI.
-   there was not such method of verification but I myself what AI has given verify the responce the used it for the problem
+   
 
 ## Next Steps
 - Explore more SQL functions
