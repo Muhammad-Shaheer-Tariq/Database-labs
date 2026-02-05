@@ -11,8 +11,10 @@
 ### Technical Skills
 
 1. **PostgreSQL Installation :**  Learned how to install PostgreSQL on Ubuntu, start the service, and access it using the `psql` terminal. Also understood the difference between the `postgres` superuser and normal database users.
+
 2. **SQL Basics :** Learned Basics of SQL how to created table , how to add simple validation , how to fix ranges in numerical data. also added the in the table. after adding the data write some basic analytical queries in it. Some of the commands that I have used in Lab 1,'CREATE DATABASE', 'CREATE TABLE' , 'ADD USER' , 'WITH PASSWORD' , 'INSERT' , 'SELECT','WHERE','COUNT','GROUP BY', 'ORDER BY'.
-3. **Git Workflow :**Learned some of the basic used of this. how Git tracks changes using `git init`, stages files using `git add`, saves changes using `git commit`, and uploads the project to GitHub using `git push`.
+
+4. **Git Workflow :**Learned some of the basic used of this. how Git tracks changes using `git init`, stages files using `git add`, saves changes using `git commit`, and uploads the project to GitHub using `git push`.
 
 ### Challenges Faced
 
@@ -48,10 +50,10 @@
 
 ### AI Usage Reflection.
 
--- Used AI many time.
--- The most helpfull intearection when I got stucked in connecting database to Dbeaver AI(chatgpt) help me out this problem this was issue of granting permission and the other problem was when helping me learning of git command show the working of git command
--- AI do not give misleading responce but you as yourself just copy paste the problem do not understand what is the problem so AI do not misleaing it your wrong prompt give you misleading responce from AI.
--- there was not such method of verification but I myself what AI has given verify the responce the used it for the problem
+- Used AI many time.
+- The most helpfull intearection when I got stucked in connecting database to Dbeaver AI(chatgpt) help me out this problem this was issue of granting permission and the other problem was when helping me learning of git command show the working of git command
+- AI do not give misleading responce but you as yourself just copy paste the problem do not understand what is the problem so AI do not misleaing it your wrong prompt give you misleading responce from AI.
+   there was not such method of verification but I myself what AI has given verify the responce the used it for the problem
 
 ## Next Steps
 - Explore more SQL functions
